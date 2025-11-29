@@ -218,7 +218,7 @@ This folder contains:
 
 | Resource           | Link |
 |--------------------|------|
-| Main notebook      | [`customer_satisfaction_analysis_team[5].ipynb`](customer_satisfaction_analysis_team[5]) |
+| Main notebook      | [`customer_satisfaction_analysis_team[5].ipynb`](customer_satisfaction_analysis_team[5].ipynb) |
 | Dataset            | [`customer_satisfaction_data.csv`](customer_satisfaction_data.csv) |
 | Executive summary  | [`executive_summary_team_5__pdf.pdf`](executive_summary_team_5__pdf.pdf) |
 | Presentation video | [YouTube](https://www.google.com/url?q=https%3A%2F%2Fyoutu.be%2FzWHmeM03y9s%3Fsi%3DJi_EV-GlsqSTPz2U%255D) |
