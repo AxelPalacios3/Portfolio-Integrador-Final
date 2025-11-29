@@ -84,7 +84,7 @@ Before running factor analysis, we check whether the survey is suitable for EFA 
   - **F4 – Pricing & Perceived Value**  
   - **F5 – Post-delivery Support**
 
-- (Optional) Compute **factor scores** for each respondent to compare clients across factors.
+-  Compute **factor scores** for each respondent to compare clients across factors.
 
 ---
 
