@@ -40,17 +40,17 @@ It compiles three business-oriented case studies using **Factor Analysis**, **Di
 
 ### 3.2 Data and Inputs (in this portfolio)
 
-- **Factor Analysis (Case 1 – TechnoServe)** :contentReference[oaicite:3]{index=3}  
+- **Factor Analysis (Case 1 – TechnoServe)** :
   - 23 satisfaction items from a B2B client survey.  
   - Continuous Likert-scale variables (1–10 style).  
   - Objective: detect coherent dimensions of service experience.
 
-- **Discriminant Analysis (Case 2 – LendSmart)** :contentReference[oaicite:4]{index=4}  
+- **Discriminant Analysis (Case 2 – LendSmart)** :
   - Financial and sociodemographic variables (income, credit score, debt-to-income ratio, utilization, etc.).  
   - Binary outcome: **default vs. non-default**.  
   - Objective: estimate probability of default and support credit decisions.
 
-- **Cluster Analysis (Case 3 – MegaMart)** :contentReference[oaicite:5]{index=5}  
+- **Cluster Analysis (Case 3 – MegaMart)** :
   - Behavioral metrics: purchase frequency, basket size, total spend, campaign response, returns, recency.  
   - No predefined labels.  
   - Objective: build meaningful customer segments for marketing strategy.
@@ -68,14 +68,14 @@ It compiles three business-oriented case studies using **Factor Analysis**, **Di
 - **Factor Analysis**
   -  Strengths:  
     - Reduces complexity of long surveys into a manageable set of dimensions.  
-    - Helps translate noisy items into business language (e.g., “technical excellence”, “relationship & trust”). :contentReference[oaicite:6]{index=6}  
+    - Helps translate noisy items into business language (e.g., “technical excellence”, “relationship & trust”). : 
   -  Challenges:  
     - Requires decisions about number of factors and rotation.  
     - Interpretation depends on theory and context; loadings are not always “clean”.
 
 - **Discriminant Analysis**
   -  Strengths:  
-    - Clear separation of good vs. bad clients in LendSmart; excellent performance (AUC ~ 1.0). :contentReference[oaicite:7]{index=7}  
+    - Clear separation of good vs. bad clients in LendSmart; excellent performance (AUC ~ 1.0). :
     - Easy to communicate to risk teams once the key drivers are identified.  
   -  Challenges:  
     - Assumptions about distributions and covariance structures.  
@@ -83,7 +83,7 @@ It compiles three business-oriented case studies using **Factor Analysis**, **Di
 
 - **Cluster Analysis**
   -  Strengths:  
-    - Naturally generated segments with intuitive business meaning (High-Value Loyalists, Big-Basket Planners, Everyday Value Seekers, At-Risk Occasionals). :contentReference[oaicite:8]{index=8}  
+    - Naturally generated segments with intuitive business meaning (High-Value Loyalists, Big-Basket Planners, Everyday Value Seekers, At-Risk Occasionals). :
     - Direct link to marketing strategies and resource focus.  
   -  Challenges:  
     - Choosing number of clusters and validating stability.  
@@ -100,9 +100,9 @@ It compiles three business-oriented case studies using **Factor Analysis**, **Di
 
 - **Modeling is iterative, not linear.**  
   We often had to go back and forth between **exploration, modeling and interpretation**:
-  - Adjusting the number of factors and checking the variance explained in Case 1. :contentReference[oaicite:9]{index=9}  
-  - Comparing LDA and QDA, and confirming that performance was not just an artifact of the split in Case 2. :contentReference[oaicite:10]{index=10}  
-  - Testing different values of *k* and features for clustering in Case 3. :contentReference[oaicite:11]{index=11}  
+  - Adjusting the number of factors and checking the variance explained in Case 1. :
+  - Comparing LDA and QDA, and confirming that performance was not just an artifact of the split in Case 2. :
+  - Testing different values of *k* and features for clustering in Case 3. :
 
 - **Evaluation is context-dependent.**  
   Accuracy, AUC, variance explained or silhouette scores only make sense when connected to business decisions:
@@ -118,9 +118,9 @@ It compiles three business-oriented case studies using **Factor Analysis**, **Di
 ### 4.2 Interpretative & Communication Lessons
 
 - We learned to **translate multivariate results into stories**:
-  - Factors became “moments of the service” (know, attend, deliver, charge, support). :contentReference[oaicite:12]{index=12}  
-  - Discriminant functions became “profiles of low vs. high risk borrowers”. :contentReference[oaicite:13]{index=13}  
-  - Clusters became “personas” with clear behaviors and strategies. :contentReference[oaicite:14]{index=14}  
+  - Factors became “moments of the service” (know, attend, deliver, charge, support). 
+  - Discriminant functions became “profiles of low vs. high risk borrowers”. 
+  - Clusters became “personas” with clear behaviors and strategies. 
 
 - We practiced explaining complex outputs to **non-technical stakeholders**:
   - What does it mean that variance explained is ~50 %?  
