@@ -142,7 +142,4 @@ We would like to close this portfolio by expressing our gratitude to:
 - **Our teammates**  
   Collaboration was essential for this portfolio. Each case required splitting responsibilities (EDA, modeling, validation, storytelling) and then integrating everything into a coherent narrative. Working together allowed us to go deeper than we could have individually, and to learn from each other’s strengths.
 
----
-
-**Repository status:**  
-If all checkboxes from the course checklist are satisfied (public repo, clean root, dependency file, structured folders and runnable, documented notebooks), this portfolio should be considered **Complete** under the MA2003B evaluation criteria.
+--
