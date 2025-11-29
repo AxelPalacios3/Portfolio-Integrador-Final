@@ -221,7 +221,7 @@ This folder contains:
 
 | Resource           | Link |
 |--------------------|------|
-| Main notebook      | [discriminant_analysis.ipynb](discriminant_analysis.ipynb) |
+| Main notebook      | [LendSmart (2).ipynb](LendSmart(2).ipynb) |
 | Dataset            | [lendsmart_credit_data.csv](lendsmart_credit_data.csv) |
 | Executive summary  | [Lendsmart.pdf](Lendsmart.pdf) |
 | Presentation video | https://youtu.be/Pp-CgQ5JIC4?si=JpZoAOssP_rKuvZD |
