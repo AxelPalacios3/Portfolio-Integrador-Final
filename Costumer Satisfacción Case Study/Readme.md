@@ -1,3 +1,7 @@
+# Team members 
+- Axel Palacios Granados A01666972
+- Alan Ulises Luna Hernandez A01424523
+- Cristian Cruz Orozco A01665590
 # Case 01 – Customer Satisfaction Factor Analysis (TechnoServe Solutions)
 
 This folder contains the analysis for **Case 01** of the MA2003B portfolio.  
