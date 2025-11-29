@@ -221,7 +221,7 @@ This folder contains:
 
 | Resource           | Link |
 |--------------------|------|
-| Main notebook      | [LendSmart(2).ipynb](LendSmart(2).ipynb) |
+| Main notebook      | [LendSmart.ipynb](LendSmart.ipynb) |
 | Dataset            | [credit_risk_data-1.csv](credit_risk_data-1.csv) |
 | Executive summary  | [Lendsmart.pdf](Lendsmart.pdf) |
 | Presentation video | https://youtu.be/Pp-CgQ5JIC4?si=JpZoAOssP_rKuvZD |
