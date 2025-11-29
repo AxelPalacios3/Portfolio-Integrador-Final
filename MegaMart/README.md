@@ -228,7 +228,7 @@ This folder contains:
 
 | Resource           | Link |
 |--------------------|------|
-| Main notebook      | [`MegaMart.ipynb`](MegaMart(2).ipynb) |
+| Main notebook      | [`MegaMart(2).ipynb`](MegaMart(2).ipynb) |
 | Dataset            | [`retail_customer_data.csv`](retail_customer_data-1.csv) |
 | Executive summary  | [`MEGAMART.pdf`](MEGAMART(1).pdf) |
 | Presentation video | [YouTube](https://youtu.be/US8B2CBnwUw) |
